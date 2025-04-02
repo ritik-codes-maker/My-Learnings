@@ -1,2 +1,2 @@
 # My-Learnings
-This is my learning codes regarding my web development learning journey
+This is my learning codes during my web development learning journey.
